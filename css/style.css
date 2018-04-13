@@ -53,7 +53,7 @@ hr {
 }
 
 .footer {
-  border-block-end-width: black;
+  border-block-end-width: right;
   font-size: 16px;
   font-style: normal;
   color: white;
