@@ -45,11 +45,27 @@ h4 {
 
 }
 
+hr {
+  border-block-start-width: 5px;
+  border-color: transparent;
+  border-block-start-width: thick;
+  opacity: 0.5;
+}
 
+.footer {
+  border-block-end-width: black;
+  font-size: 16px;
+  font-style: normal;
+  color: white;
+}
 
-
-
-
+.header {
+  border-block-start-width: 10px;
+  height: 5px;
+  font-size: 13px;
+  font-style: normal;
+  background-color: transparent;
+}
 
 
 
